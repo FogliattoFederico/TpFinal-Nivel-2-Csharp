@@ -1,0 +1,1 @@
+Este trabajo fue presentado como trabajo final para el curso nivel 2 de C#. El proyecto consistio en una aplicacion de escritorio para gestionar un listado de productos (ABM). A demas permite realizar busqueda de productos por nombre, categoria o precio.
